@@ -1,0 +1,26 @@
+{
+  label = "Light Blue Spruce Seat (standalone)",
+  tooltip = "Designed by Lemmmy",
+  shapes = {
+    { 2,0,2,4,3,4,texture = "minecraft:blocks/planks_spruce" },
+    { 2,0,12,4,3,14,texture = "minecraft:blocks/planks_spruce" },
+    { 12,0,2,14,3,4,texture = "minecraft:blocks/planks_spruce" },
+    { 12,0,12,14,3,14,texture = "minecraft:blocks/planks_spruce" },
+    { 3,3,3,5,6,5,texture = "minecraft:blocks/planks_spruce" },
+    { 3,3,11,5,6,13,texture = "minecraft:blocks/planks_spruce" },
+    { 11,3,3,13,6,5,texture = "minecraft:blocks/planks_spruce" },
+    { 11,3,11,13,6,13,texture = "minecraft:blocks/planks_spruce" },
+    { 4,4,5,5,6,13,texture = "minecraft:blocks/planks_spruce" },
+    { 5,4,4,13,6,5,texture = "minecraft:blocks/planks_spruce" },
+    { 5,4,11,13,6,12,texture = "minecraft:blocks/planks_spruce" },
+    { 11,4,5,12,6,13,texture = "minecraft:blocks/planks_spruce" },
+    { 4,6,4,6,12,6,texture = "minecraft:blocks/planks_spruce" },
+    { 4,6,10,6,12,12,texture = "minecraft:blocks/planks_spruce" },
+    { 10,6,4,12,12,6,texture = "minecraft:blocks/planks_spruce" },
+    { 10,6,10,12,12,12,texture = "minecraft:blocks/planks_spruce" },
+    { 2,9,3,14,12,13,texture = "minecraft:blocks/planks_spruce" },
+    { 3,9,2,13,12,14,texture = "minecraft:blocks/planks_spruce" },
+    { 3,12,4,13,13,12,texture = "minecraft:blocks/wool_colored_light_blue" },
+    { 4,12,3,12,13,13,texture = "minecraft:blocks/wool_colored_light_blue" },
+  }
+}

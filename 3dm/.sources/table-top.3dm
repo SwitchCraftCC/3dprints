@@ -1,0 +1,7 @@
+{
+  label = "Table (top)",
+  tooltip = "TOOLTIP",
+  shapes = {
+    { 0,14,0,16,16,16,texture = "planks" },
+  }
+}

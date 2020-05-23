@@ -1,0 +1,7 @@
+{
+  label = "Acacia Table (top)",
+  tooltip = "Designed by Lemmmy",
+  shapes = {
+    { 0,14,0,16,16,16,texture = "minecraft:blocks/planks_acacia" },
+  }
+}

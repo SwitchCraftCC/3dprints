@@ -1,0 +1,12 @@
+{
+  label = "Table (corner)",
+  tooltip = "TOOLTIP",
+  shapes = {
+    { 2,0,2,6,1,6,texture = "planks" },
+    { 3,1,3,5,16,5,texture = "planks" },
+    { 2,12,2,6,16,6,texture = "planks" },
+    { 0,14,2,16,16,16,texture = "planks" },
+    { 1,14,1,16,16,16,texture = "planks" },
+    { 2,14,0,16,16,16,texture = "planks" },
+  }
+}

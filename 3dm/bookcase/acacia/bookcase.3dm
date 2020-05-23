@@ -1,0 +1,12 @@
+{
+  label = "Acacia Bookcase",
+  tooltip = "Designed by Lemmmy",
+  shapes = {
+    { 0,0,8,16,1,16,texture = "minecraft:blocks/planks_acacia" },
+    { 0,1,8,1,16,16,texture = "minecraft:blocks/planks_acacia" },
+    { 1,1,15,16,16,16,texture = "minecraft:blocks/planks_acacia" },
+    { 15,1,8,16,16,16,texture = "minecraft:blocks/planks_acacia" },
+    { 1,7,8,16,9,16,texture = "minecraft:blocks/planks_acacia" },
+    { 1,15,8,16,16,16,texture = "minecraft:blocks/planks_acacia" },
+  }
+}

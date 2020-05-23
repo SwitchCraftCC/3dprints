@@ -1,0 +1,9 @@
+{
+  label = "Jungle Shelf (1)",
+  tooltip = "Designed by Lemmmy",
+  shapes = {
+    { 0,0,8,16,1,16,texture = "minecraft:blocks/planks_jungle" },
+    { 7,1,10,9,16,16,texture = "minecraft:blocks/planks_jungle" },
+    { 0,8,8,16,9,16,texture = "minecraft:blocks/planks_jungle" },
+  }
+}

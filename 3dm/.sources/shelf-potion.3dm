@@ -1,0 +1,11 @@
+{
+  label = "Potion Shelf",
+  tooltip = "TOOLTIP",
+  shapes = {
+    { 0,0,8,1,16,16,texture = "planks" },
+    { 1,0,10,16,1,16,texture = "planks" },
+    { 15,0,8,16,16,16,texture = "planks" },
+    { 1,6,10,16,7,16,texture = "planks" },
+    { 1,12,10,16,13,16,texture = "planks" },
+  }
+}
