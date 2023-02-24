@@ -1,0 +1,16 @@
+{
+  "label": "Jungle Potion Shelf",
+  "tooltip": "Designed by Lemmmy",
+  "collideWhenOff": true,
+  "collideWhenOn": true,
+  "lightLevel": 0,
+  "redstoneLevel": 0,
+  "shapesOff": [
+    {"bounds":[0,0,8,1,16,16],"tint":"FFFFFF","texture":"minecraft:block/jungle_planks"},
+    {"bounds":[1,0,10,16,1,16],"tint":"FFFFFF","texture":"minecraft:block/jungle_planks"},
+    {"bounds":[15,0,8,16,16,16],"tint":"FFFFFF","texture":"minecraft:block/jungle_planks"},
+    {"bounds":[1,6,10,16,7,16],"tint":"FFFFFF","texture":"minecraft:block/jungle_planks"},
+    {"bounds":[1,12,10,16,13,16],"tint":"FFFFFF","texture":"minecraft:block/jungle_planks"}
+  ],
+  "shapesOn": []
+}

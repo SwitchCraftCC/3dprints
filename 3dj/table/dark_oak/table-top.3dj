@@ -1,0 +1,12 @@
+{
+  "label": "Dark Oak Table (top)",
+  "tooltip": "Designed by Lemmmy",
+  "collideWhenOff": true,
+  "collideWhenOn": true,
+  "lightLevel": 0,
+  "redstoneLevel": 0,
+  "shapesOff": [
+    {"bounds":[0,14,0,16,16,16],"tint":"FFFFFF","texture":"minecraft:block/dark_oak_planks"}
+  ],
+  "shapesOn": []
+}

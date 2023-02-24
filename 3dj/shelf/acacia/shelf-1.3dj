@@ -1,0 +1,14 @@
+{
+  "label": "Acacia Shelf (1)",
+  "tooltip": "Designed by Lemmmy",
+  "collideWhenOff": true,
+  "collideWhenOn": true,
+  "lightLevel": 0,
+  "redstoneLevel": 0,
+  "shapesOff": [
+    {"bounds":[0,0,8,16,1,16],"tint":"FFFFFF","texture":"minecraft:block/acacia_planks"},
+    {"bounds":[7,1,10,9,16,16],"tint":"FFFFFF","texture":"minecraft:block/acacia_planks"},
+    {"bounds":[0,8,8,16,9,16],"tint":"FFFFFF","texture":"minecraft:block/acacia_planks"}
+  ],
+  "shapesOn": []
+}

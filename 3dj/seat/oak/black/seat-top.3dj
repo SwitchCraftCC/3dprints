@@ -1,0 +1,13 @@
+{
+  "label": "Black Oak Seat (top)",
+  "tooltip": "Designed by Lemmmy",
+  "collideWhenOff": true,
+  "collideWhenOn": true,
+  "lightLevel": 0,
+  "redstoneLevel": 0,
+  "shapesOff": [
+    {"bounds":[0,9,2,16,12,14],"tint":"FFFFFF","texture":"minecraft:block/oak_planks"},
+    {"bounds":[0,12,3,16,13,13],"tint":"FFFFFF","texture":"minecraft:block/black_wool"}
+  ],
+  "shapesOn": []
+}
